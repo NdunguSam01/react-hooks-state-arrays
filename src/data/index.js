@@ -9,6 +9,7 @@ const newSpicyFoods = [
   { name: "Green Curry", cuisine: "Thai", heatLevel: 9 },
   { name: "Enchiladas", cuisine: "Mexican", heatLevel: 2 },
   { name: "5 Alarm Chili", cuisine: "American", heatLevel: 5 },
+  { name: "Pizza periperi", cuisine: "French", heatLevel: 7 },
 ];
 
 // Get one random spicy food from the array
